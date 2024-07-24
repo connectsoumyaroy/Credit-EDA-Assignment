@@ -45,9 +45,4 @@ The dataset comprises three files:
 2. **previous_application.csv**: Provides data on the client's previous loan applications and their outcomes (Approved, Cancelled, Refused, or Unused offer).
 3. **columns_description.csv**: A data dictionary that describes the variables used in the dataset.
 
-## Getting Started
 
-1. **Clone this Repository**:
-   ```bash
-   git clone https://github.com/username/repository.git
-# Credit-EDA-Assignment
